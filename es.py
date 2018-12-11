@@ -31,7 +31,7 @@ num_gauss_mix = 5
 
 # params for es
 nepisodes = 16
-start_iter = 240 #0
+start_iter = 0
 nsteps = 500 
 lr_es = 5e-3
 sigma_perturb_init = 0.1
@@ -39,7 +39,7 @@ sigma_perturb_final = 0.01
 anneal_steps = 500
 tau_sample = 1.0
 
-train_from_scratch = False #True
+train_from_scratch = True
 
 #--------------------------------------------------------------------------------------
 
