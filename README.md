@@ -1,5 +1,5 @@
 # World_Models
-Coding Ha and Schmidhuber's World Models
+Coding Ha and Schmidhuber's World Models in TensorFlow
 
 Steps to run:
 
